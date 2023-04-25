@@ -1,1 +1,2 @@
-THIS IS A WEB PAGE I CREATED FOR MY FRIEND
+![Alt text](./abc.jpg "Optional title")
+
